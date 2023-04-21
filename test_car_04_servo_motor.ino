@@ -1,11 +1,3 @@
-/*********
-  Rui Santos
-  Complete instructions at https://RandomNerdTutorials.com/esp32-cam-projects-ebook/
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*********/
-
 #include "esp_camera.h"
 #include <WiFi.h>
 #include "esp_timer.h"
@@ -17,8 +9,8 @@
 #include "esp_http_server.h"
 #include <Servo.h>
 
-const char* ssid = "A1_A12EE3";
-const char* password = "7964e225";
+const char* ssid = "########";
+const char* password = "########";
 
 
 Servo myservo; 
