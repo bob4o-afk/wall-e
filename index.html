@@ -35,8 +35,8 @@ function preload() {
 
 function setup() {
   createCanvas(640, 480);
-  video = createVideo('http://192.168.1.21:81/stream');
-  //video = createCapture(VIDEO);
+  //video = createVideo('http://IP_ADDRESS/stream');
+  video = createCapture(VIDEO);
   video.size(640, 480);
   console.log('video element is created');
   video.elt.addEventListener('loadeddata', function() {
