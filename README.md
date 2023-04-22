@@ -30,7 +30,12 @@
 
 
 Инсталиране на нужни библиотеки:
-https://randomnerdtutorials.com/installing-esp32-arduino-ide-2-0/
+Във Arduino IDE отидете на File>Preferences 
+
+
+
+![image](https://user-images.githubusercontent.com/80323655/233777703-c15c44a9-c530-4a31-9241-d2358589cdf2.png)
+
 
 Примерен код:
 In your Arduino IDE, go to File > Examples > ESP32 > Camera and open the CameraWebServer example.
