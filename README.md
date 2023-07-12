@@ -38,13 +38,9 @@ To use this code for your trash recognition and pickup robot, follow these steps
 
 7. Connect the robot to a power source and turn it on.
 
-   ![Robot Power](robot_power.jpg)
-
 8. Connect a computer or mobile device to the same Wi-Fi network as the robot.
 
 9. Open a web browser and navigate to the IP address of the robot (displayed in the serial monitor during setup).
-
-   ![Web Interface](web_interface.jpg)
 
 10. The web interface will be displayed, allowing you to control the robot's movements, adjust the servo position, and view the camera stream.
 
@@ -56,25 +52,7 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 Let's build a cleaner future together with this trash recognition and pickup robot!
 
-![Cleaner Future](cleaner_future.jpg)
-Как се програмира:
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/80323655/233776831-18c0cd8b-260d-4f21-801d-d9201b0b7d03.png)
-
-Примерна схема:
-
-
-
-
-![image](https://user-images.githubusercontent.com/80323655/233776931-c38c405b-91ec-4109-9751-28fbdcf2d848.png)
-
-
-
+[A robot for a Better future.pdf](https://github.com/bob4o-afk/wall-e/files/12027585/A.robot.for.a.Better.future.pdf)
 
 
 
