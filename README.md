@@ -25,7 +25,7 @@ To use this code for your trash recognition and pickup robot, follow these steps
 
 1. Set up the hardware components of the robot, including the ESP32 microcontroller, camera module, servo motor, and any other necessary components.
 
-   ![Hardware Setup](hardware_setup.jpg)
+   ![Hardware Setup](https://user-images.githubusercontent.com/80323655/233776931-c38c405b-91ec-4109-9751-28fbdcf2d848.png   )
 
 2. Connect the hardware components according to the pin configuration specified in the code.
 
