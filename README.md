@@ -46,6 +46,18 @@ To use this code for your trash recognition and pickup robot, follow these steps
 
 11. Start the object detection process by clicking the "Start Detecting" button on the web interface. The robot will detect and highlight trash objects (specifically bottles) in the camera stream.
 
+## Installing libraries + exmaple code
+Installing required libraries:
+In the Arduino IDE, go to File>Preferences
+
+![image](https://user-images.githubusercontent.com/80323655/233777703-c15c44a9-c530-4a31-9241-d2358589cdf2.png)
+
+
+Example code: In your Arduino IDE, go to File > Examples > ESP32 > Camera and open the CameraWebServer example.
+
+
+![image](https://user-images.githubusercontent.com/80323655/233777531-aacc7813-754d-4fbf-ab33-0b5883469323.png)
+
 ## Contributions
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
@@ -53,19 +65,3 @@ Contributions to this project are welcome. If you encounter any issues or have s
 Let's build a cleaner future together with this trash recognition and pickup robot!
 
 [A robot for a Better future.pdf](https://github.com/bob4o-afk/wall-e/files/12027585/A.robot.for.a.Better.future.pdf)
-
-
-
-Инсталиране на нужни библиотеки:
-Във Arduino IDE отидете на File>Preferences 
-
-
-
-![image](https://user-images.githubusercontent.com/80323655/233777703-c15c44a9-c530-4a31-9241-d2358589cdf2.png)
-
-
-Примерен код:
-In your Arduino IDE, go to File > Examples > ESP32 > Camera and open the CameraWebServer example.
-
-
-![image](https://user-images.githubusercontent.com/80323655/233777531-aacc7813-754d-4fbf-ab33-0b5883469323.png)
