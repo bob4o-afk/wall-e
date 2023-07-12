@@ -30,24 +30,25 @@ To use this code for your trash recognition and pickup robot, follow these steps
 2. Connect the hardware components according to the pin configuration specified in the code.
 
 3. Upload the C++ code to the ESP32 microcontroller using the Arduino IDE or any other suitable development environment.
+   ![image](https://user-images.githubusercontent.com/80323655/233776831-18c0cd8b-260d-4f21-801d-d9201b0b7d03.png)
 
-4. Ensure that the required libraries and dependencies are installed for both the HTML/JavaScript code (ML5.js, p5.js) and the C++ code (esp_camera.h, WiFi.h, etc.).
+5. Ensure that the required libraries and dependencies are installed for both the HTML/JavaScript code (ML5.js, p5.js) and the C++ code (esp_camera.h, WiFi.h, etc.).
 
-5. Modify the code as needed to adapt it to your specific robot configuration and requirements.
+6. Modify the code as needed to adapt it to your specific robot configuration and requirements.
 
-6. Connect the robot to a power source and turn it on.
+7. Connect the robot to a power source and turn it on.
 
    ![Robot Power](robot_power.jpg)
 
-7. Connect a computer or mobile device to the same Wi-Fi network as the robot.
+8. Connect a computer or mobile device to the same Wi-Fi network as the robot.
 
-8. Open a web browser and navigate to the IP address of the robot (displayed in the serial monitor during setup).
+9. Open a web browser and navigate to the IP address of the robot (displayed in the serial monitor during setup).
 
    ![Web Interface](web_interface.jpg)
 
-9. The web interface will be displayed, allowing you to control the robot's movements, adjust the servo position, and view the camera stream.
+10. The web interface will be displayed, allowing you to control the robot's movements, adjust the servo position, and view the camera stream.
 
-10. Start the object detection process by clicking the "Start Detecting" button on the web interface. The robot will detect and highlight trash objects (specifically bottles) in the camera stream.
+11. Start the object detection process by clicking the "Start Detecting" button on the web interface. The robot will detect and highlight trash objects (specifically bottles) in the camera stream.
 
 ## Contributions
 
